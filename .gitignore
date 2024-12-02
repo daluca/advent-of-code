@@ -1,0 +1,5 @@
+/target
+/.direnv/
+/.session-token
+/inputs
+/.pre-commit-config.yaml
